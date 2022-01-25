@@ -1,4 +1,4 @@
-Swagger API and RESTful application
+# Swagger API and RESTful application
 
 Create a user and group management REST API service. Service should provide a way to list, add, modify, and remove users and groups. Each user can belong to at most one group.
 
